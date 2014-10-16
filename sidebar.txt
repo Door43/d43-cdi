@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cdi:home|Door43 (cdi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cdi|d43-cdi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cdi/archive/master.zip|d43-cdi.zip]]
+
+**Recent Changes**
+{{changes>ns = cdi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cdi|Ethnologue data]]
+
